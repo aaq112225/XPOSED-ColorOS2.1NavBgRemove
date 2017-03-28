@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ColorOS2.1NavBgRemove</string>
+    <string name="DES">A Xposed module to remove ColorOS2.1 navigationbar background coverage,Recommend use with PerfectColorBar.</string>
+</resources>
